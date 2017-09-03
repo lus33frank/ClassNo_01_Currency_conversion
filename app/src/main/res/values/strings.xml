@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">No:01_Currency conversion(幣值轉換)</string>
+    <string name="USD">美金：</string>
+    <string name="USD_Hint">請輸入美金金額</string>
+    <string name="TWD">新台幣：</string>
+    <string name="Buttons">轉換</string>
+    <string name="Error_Hint">金額輸入錯誤，請重新輸入</string>
+</resources>
